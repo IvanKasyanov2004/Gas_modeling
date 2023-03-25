@@ -30,11 +30,3 @@ while t < T:
 
 print("modeling finished")
 
-print("graphing in progress...")
-
-graph_E_t()
-graph_T_t()
-graph_histogram_f_vx()
-graph_histogram_f_v()
-
-print("graphing finished")
